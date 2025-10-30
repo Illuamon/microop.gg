@@ -1,0 +1,3 @@
+API_KEY = " "
+DEFAULT_REGION_CODE = "eun1"
+DEFAULT_REGION = 'europe'
